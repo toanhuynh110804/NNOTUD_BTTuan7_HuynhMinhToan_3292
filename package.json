@@ -1,0 +1,27 @@
+{
+  "name": "nnotud_bttuan7_huynhminhtoan_3292",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toanhuynh110804/NNOTUD_BTTuan7_HuynhMinhToan_3292.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/toanhuynh110804/NNOTUD_BTTuan7_HuynhMinhToan_3292/issues"
+  },
+  "homepage": "https://github.com/toanhuynh110804/NNOTUD_BTTuan7_HuynhMinhToan_3292#readme",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.3.1",
+    "nodemailer": "^8.0.4",
+    "xlsx": "^0.18.5"
+  }
+}
